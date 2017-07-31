@@ -1,0 +1,34 @@
+Please enter your name: 
+Benjamin
+Please enter your age: 
+20
+Are you a student? (Y/N): 
+Y
+Which film would you like to watch?
+1) Jurassic World rating: (M)
+2) Fantastic Four rating: (P)
+3) Ant-Man rating: (P)
+4) Inside Out rating: (G)
+1
+-------------------------------------------------------
+ FILM TICKET for: Jurassic World (M)
+ CUSTOMER DETAILS: Benjamin age: 20 Student?: true
+ TOTAL COST: $8.50
+-------------------------------------------------------
+Issue another ticket? (Y/N)
+Y
+Please enter your name: 
+John
+Please enter your age: 
+5
+Are you a student? (Y/N): 
+n
+Which film would you like to watch?
+1) Jurassic World rating: (M)
+2) Fantastic Four rating: (P)
+3) Ant-Man rating: (P)
+4) Inside Out rating: (G)
+1
+Sorry, cannot issue ticket for age restricted films
+Issue another ticket? (Y/N)
+n
